@@ -1,2 +1,2 @@
 # todo-list
-Hii this are my todo list web dev project using html css and js
+Hi! This is my To-Do List web project using HTML, CSS, and JavaScript. It includes simple features like adding tasks, deleting them with one click, and editing tasks easily using a button.
